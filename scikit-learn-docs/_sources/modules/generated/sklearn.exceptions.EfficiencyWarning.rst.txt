@@ -1,6 +1,0 @@
-EfficiencyWarning
-=================
-
-.. currentmodule:: sklearn.exceptions
-
-.. autoexception:: EfficiencyWarning

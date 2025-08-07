@@ -1,6 +1,0 @@
-ConvergenceWarning
-==================
-
-.. currentmodule:: sklearn.exceptions
-
-.. autoexception:: ConvergenceWarning

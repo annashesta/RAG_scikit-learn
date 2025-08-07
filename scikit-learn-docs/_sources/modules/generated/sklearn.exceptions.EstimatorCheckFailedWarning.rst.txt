@@ -1,6 +1,0 @@
-EstimatorCheckFailedWarning
-===========================
-
-.. currentmodule:: sklearn.exceptions
-
-.. autoexception:: EstimatorCheckFailedWarning

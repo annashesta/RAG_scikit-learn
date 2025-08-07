@@ -1,6 +1,0 @@
-FitFailedWarning
-================
-
-.. currentmodule:: sklearn.exceptions
-
-.. autoexception:: FitFailedWarning

@@ -1,6 +1,0 @@
-DataConversionWarning
-=====================
-
-.. currentmodule:: sklearn.exceptions
-
-.. autoexception:: DataConversionWarning
