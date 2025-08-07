@@ -4,8 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.zip
 *.pkl
-output/
-scikit_faiss_index/
 .env
 .git/
 scikit-learn-docs.zip
+scikit-learn-docs
