@@ -8,3 +8,4 @@ output/
 scikit_faiss_index/
 .env
 .git/
+scikit-learn-docs.zip
