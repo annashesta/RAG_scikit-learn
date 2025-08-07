@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.zip
+*.pkl
+output/
+scikit_faiss_index/
+.env
+.git/
